@@ -1,1 +1,3 @@
 Sample File to demonstarte how to commit to local git repository and eventually to the github repository.
+
+Changes made while in the firstBranch.
